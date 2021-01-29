@@ -1,0 +1,5 @@
+C:\Users\iulya\Desktop\IP Proj\BasicReview\obj\Debug\netcoreapp3.1\BasicReview.csprojAssemblyReference.cache
+C:\Users\iulya\Desktop\IP Proj\BasicReview\obj\Debug\netcoreapp3.1\BasicReview.csproj.CoreCompileInputs.cache
+C:\Users\iulya\Desktop\IP Proj\BasicReview\obj\Debug\netcoreapp3.1\BasicReview.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iulya\Desktop\IP Proj\BasicReview\obj\Debug\netcoreapp3.1\BasicReview.AssemblyInfoInputs.cache
+C:\Users\iulya\Desktop\IP Proj\BasicReview\obj\Debug\netcoreapp3.1\BasicReview.AssemblyInfo.cs
